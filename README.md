@@ -1,2 +1,2 @@
 # JRemGolf
-This is my first experiment with this bot
+This is an expierement to analyise accuracy based on golf shots
